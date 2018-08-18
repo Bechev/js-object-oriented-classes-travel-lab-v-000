@@ -6,6 +6,6 @@ class Driver{
   }
 
     const startDate = new Date(dateString){
-    return self;
+    return startDate;
   }
 }
