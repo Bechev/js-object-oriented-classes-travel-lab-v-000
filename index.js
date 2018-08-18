@@ -5,7 +5,7 @@ class Driver{
     this.signupDate = signupDate;
   }
 
-  startDate(dateString){
-    return new Date(dateString);
+    const startDate = new Date(dateString){
+    return self;
   }
 }
